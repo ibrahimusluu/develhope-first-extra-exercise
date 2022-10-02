@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+section div {
+    display: grid;
+    float: left;
+    height: 100vh;
+}
